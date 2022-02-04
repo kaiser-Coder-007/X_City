@@ -1,0 +1,14 @@
+Our team had made a app/web with a simple UI, so non-teach person can able to use the app.
+
+In background data(from our end), we have list of all possible career options available and we had given them different tag(skills required) and that tag has associate point(from 1 to 100) this point varry according to different places (like-india,us,etc) and this point also varry on basic of time(like- in future particular career has scope then that carrer will have high(not currently but in future year ).
+
+*If a carreer required 5skills = then each skills has 1/5 weightage.
+If a carrer required 2 skills, then each skills has 1/2 weightage.
+
+When user login our app/web he can enter his skill and talent lvl of that skill (noob, avg, pro)-different lvl Different weightage.
+
+Then we will run a loop in our server give and output of different career options with % which is better for him along with that we will be providing roadmap and cost of that.
+
+
+[4:08 pm, 02/02/2022] +91 85528 00820: Objective: : We need you to develop a portal where we can use the national database to track the development of individuals. According to their performance in their workplace, their hobbies and extra curricular activities the portal should suggest them their career goals. This can be what they are best in and according to that what is the best career they can choose for themselves. This can reduce in making mistakes in selecting career.
+[4:09 pm, 02/02/2022] +91 85528 00820: There is one option, digilocker, thought which we can get user data

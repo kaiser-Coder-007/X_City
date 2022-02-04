@@ -1,0 +1,8 @@
+Basic problem : There are lot of problem based on predicting what to next expescially when it comes to selection of carrer options and jobs & how much far they are from achieving that what all they need to get what they want.
+
+Side Problem : this problem just not pretain with finding jobs & carrer oppurtunies but also in many ways we face in our daily liveswhile comparing things to know what to take. For example buying things wgere to get best deals etc or how mucb marks to get passed in next test.
+There lie's a problem for analyzing the data.
+
+Basic Solution needed : we will make  aplication that will help you keep tack of yourself & predict what is better to next based on results that we get from the national databases(we use APIs from the government site as data for our ML algorithm). This will help them to take much better decesions based on the facts and data avilable.
+
+Side Solution needed : we will add some functionalities that will help user to search the algorithms to solve there problems,people can add self customized solutions to the general problems. This will help the people to get solutions. This solutions will be ranked according to there user usage. In this way one person can solve the problems of the other person using our application as medium.
